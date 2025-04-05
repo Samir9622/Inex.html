@@ -6,7 +6,59 @@
     <meta name="description" content="Free online tools for all your image and PDF needs. Convert, compress, edit, and transform files quickly and securely.">
     <title>Digital Tools Hub - Image & PDF Solutions</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
+    <style><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tools</title>
+  <style>
+    /* Paste your full CSS here */
+    /* (Already provided by you above) */
+  </style>
+</head>
+<body>
+  <header class="header">
+    <div class="nav-container">
+      <a href="/" class="logo">My Tools</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to My Tools</h1>
+    <p>Explore helpful utilities and resources below.</p>
+  </section>
+
+  <div class="tools-grid">
+    <div class="tool-card">
+      <div class="tool-icon">🛠️</div>
+      <h3>Tool 1</h3>
+      <p>Basic description of the tool goes here.</p>
+      <a href="#" class="btn">Try Now</a>
+    </div>
+
+    <div class="tool-card">
+      <div class="tool-icon">⚙️</div>
+      <h3>Tool 2</h3>
+      <p>Another cool tool to explore.</p>
+      <a href="#" class="btn">Launch</a>
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>About</h3>
+        <ul>
+          <li><a href="#">My GitHub</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
+
         :root {
             --primary-color: #4a90e2;
             --secondary-color: #50e3c2;
