@@ -302,12 +302,10 @@
             <h3>Image Compressor</h3>/tools/img-compress.html
             <p>Reduce image file size without quality loss</p>
             <a href="#" class="btn">Use Tool</a>
-        </div><h3>Image Compressor</h3>
-<p>Reduce image file size without quality loss</p>
-<a href="/tools/image-compressor.html" class="btn">Compress Images Now</a>
-
-        <div class="tool-card">
-            <div class="tool-icon">📄</div>
+        </div><h3>Image Compressor</h3>/tools/image-compress.ht
+ 
+      <div class="tool-card">
+           <div class="tool-icon">📄</div>
             <h3>PDF Merger</h3>
             <p>Combine multiple PDF files into one document</p>
             <a href="#" class="btn">Use Tool</a>
