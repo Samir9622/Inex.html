@@ -299,7 +299,7 @@
         <!-- Image Tools -->
         <div class="tool-card">
             <div class="tool-icon">🖼️</div>
-            <h3>Image Compressor</h3>/tools/image-compress.html
+            <h3>Image Compressor</h3>/Tools/Image-compress.html
             <p>Reduce image file size without quality loss</p>
             <a href="#" class="btn">Use Tool</a>
         </div>
