@@ -301,9 +301,8 @@
             <div class="tool-icon">🖼️</div>
             <h3>Image Compressor</h3>/tools/img-compress.html
             <p>Reduce image file size without quality loss</p>
-            <a href="#" class="btn">Use Tool</a>
-        </div><h3>Image Compressor</h3>/tools/image-compress.ht
- 
+            <a href="#" class="btn">Use Tool</a
+
       <div class="tool-card">
            <div class="tool-icon">📄</div>
             <h3>PDF Merger</h3>
