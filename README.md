@@ -1,4 +1,44 @@
-<!DOCTYPE html>
+h1 {
+  margin-bottom: 20px;
+}
+
+#drop-area {
+  border: 2px dashed #ccc;
+  border-radius: 10px;
+  padding: 30px;
+  background: white;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#drop-area:hover {
+  background: #f0f0f0;
+}
+
+#fileElem {
+  display: none;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#preview img {
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+#preview {
+  margin-top: 30px;
+}<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
